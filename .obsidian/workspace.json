@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-01-11.md",
+                "file": "_config.yml.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-01-11"
+              "title": "_config.yml"
             }
           }
         ]
       },
       {
-        "id": "479a712d5105bdaa",
+        "id": "33c87b1feb0b39f6",
         "type": "tabs",
         "children": [
           {
-            "id": "f6214cb56a0c4a58",
+            "id": "b5b689dace04fe8c",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -56,8 +56,23 @@
               "icon": "lucide-file",
               "title": "2026-01-11"
             }
+          },
+          {
+            "id": "d59f76c241d626d7",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://nurselovely.github.io/obslide-show/",
+                "title": "My Slide Show Home | obslide-show",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "My Slide Show Home | obslide-show"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-01-11.md",
+                "file": "_config.yml.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-01-11"
+              "title": "Outline of _config.yml"
             }
           },
           {
@@ -248,11 +263,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f6214cb56a0c4a58",
+  "active": "b5b689dace04fe8c",
   "lastOpenFiles": [
-    "_config.yml.md",
+    "images/Screenshot 2026-01-12 6.22.53 AM.png",
     "2026-01-11.md",
     "index.md",
+    "_config.yml.md",
     "Welcome.md",
     "images/Screenshot 2026-01-11 9.32.57 PM.png",
     "images/Screenshot 2026-01-11 9.20.55 PM.png",
