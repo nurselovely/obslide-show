@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "36ddaa36bd8bbdd9",
+    "id": "6c08fa17e9af45fe",
     "type": "split",
     "children": [
       {
-        "id": "332edca310b07f31",
+        "id": "63de32644a9bd9e0",
         "type": "tabs",
         "children": [
           {
-            "id": "cc7586a124a684c4",
+            "id": "75d18705ac56fc07",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c3f3d598debeba0d",
+    "id": "1762ee352ce2075d",
     "type": "split",
     "children": [
       {
-        "id": "c6201128675a6c61",
+        "id": "668fc80b39843e80",
         "type": "tabs",
         "children": [
           {
-            "id": "ffaca355b916dbce",
+            "id": "a2024ad0f677675e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "1b94ee35d04e42d1",
+            "id": "f27f674c98e4d56f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "0fa5ad3653d5e4b8",
+            "id": "932b78b7a1716c58",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,18 +74,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "ab6c76b0398651d2",
+    "id": "9368f2be5186f17c",
     "type": "split",
     "children": [
       {
-        "id": "da8c5d1762cc10fb",
+        "id": "c6bfebb99064fc4f",
         "type": "tabs",
         "children": [
           {
-            "id": "2da801523ac12169",
+            "id": "4dd5e30ec5f5e9b2",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "b1f0525b1f5a5573",
+            "id": "b5848deb4f22265f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "6d0ea688d0ad0968",
+            "id": "efd5a4cc2167de13",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +131,7 @@
             }
           },
           {
-            "id": "18cf20cb2a665178",
+            "id": "a4e72da48aba6bc5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,7 +145,7 @@
             }
           },
           {
-            "id": "412aae1eddf6394e",
+            "id": "b76a0fa71a5415c1",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -157,25 +157,45 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "d71f86c1cc5b66b1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc7586a124a684c4",
-  "lastOpenFiles": []
+  "active": "d71f86c1cc5b66b1",
+  "lastOpenFiles": [
+    "images/Screenshot 2026-01-11 9.00.03 PM.png",
+    "Vault_obslide-show/Welcome.md",
+    "images/Screenshot 2026-01-11 8.57.46 PM.png",
+    "images/Screenshot 2026-01-11 8.54.06 PM.png",
+    "images/Screenshot 2026-01-11 8.43.41 PM.png"
+  ]
 }
