@@ -4,56 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "63de32644a9bd9e0",
+        "id": "e7a3e98964392337",
         "type": "tabs",
         "children": [
           {
-            "id": "75d18705ac56fc07",
+            "id": "f12a0966e1f06f7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "75a51b33d7207a09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_config.yml.md",
+                "file": "2026-01-11.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_config.yml"
+              "title": "2026-01-11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "5136ec6192eb0838",
+        "id": "479a712d5105bdaa",
         "type": "tabs",
         "children": [
           {
-            "id": "bc587946450dc3e6",
+            "id": "f6214cb56a0c4a58",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
+            }
+          }
+        ]
+      },
+      {
+        "id": "be12373915f8abf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d0593b39dca46c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_config.yml.md",
+                "file": "2026-01-11.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_config.yml"
+              "title": "2026-01-11"
             }
           }
         ]
@@ -189,12 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2026-01-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-01-11"
             }
           },
           {
@@ -209,6 +211,22 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "b36a4f4c933d2c68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "776bd57e98b578b7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,15 +244,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bc587946450dc3e6",
+  "active": "f6214cb56a0c4a58",
   "lastOpenFiles": [
-    "images/Screenshot 2026-01-11 9.32.57 PM.png",
-    "Welcome.md",
     "_config.yml.md",
+    "2026-01-11.md",
     "index.md",
+    "Welcome.md",
+    "images/Screenshot 2026-01-11 9.32.57 PM.png",
     "images/Screenshot 2026-01-11 9.20.55 PM.png",
     "images/Screenshot 2026-01-11 9.13.27 PM.png",
     "images/Screenshot 2026-01-11 9.10.34 PM.png",
