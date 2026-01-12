@@ -6,5 +6,6 @@
   "tabSize": 6,
   "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }

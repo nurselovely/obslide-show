@@ -11,10 +11,49 @@
             "id": "75d18705ac56fc07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "75a51b33d7207a09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_config.yml.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "_config.yml"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5136ec6192eb0838",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc587946450dc3e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_config.yml.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "_config.yml"
             }
           }
         ]
@@ -190,11 +229,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d71f86c1cc5b66b1",
+  "active": "bc587946450dc3e6",
   "lastOpenFiles": [
-    "images/Screenshot 2026-01-11 9.20.55 PM.png",
-    "index.md",
+    "images/Screenshot 2026-01-11 9.32.57 PM.png",
     "Welcome.md",
+    "_config.yml.md",
+    "index.md",
+    "images/Screenshot 2026-01-11 9.20.55 PM.png",
     "images/Screenshot 2026-01-11 9.13.27 PM.png",
     "images/Screenshot 2026-01-11 9.10.34 PM.png",
     "images/Screenshot 2026-01-11 9.00.03 PM.png",
