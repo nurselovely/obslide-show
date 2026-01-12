@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 203.5
   },
   "right": {
     "id": "9368f2be5186f17c",
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,6 +192,11 @@
   },
   "active": "d71f86c1cc5b66b1",
   "lastOpenFiles": [
+    "images/Screenshot 2026-01-11 9.20.55 PM.png",
+    "index.md",
+    "Welcome.md",
+    "images/Screenshot 2026-01-11 9.13.27 PM.png",
+    "images/Screenshot 2026-01-11 9.10.34 PM.png",
     "images/Screenshot 2026-01-11 9.00.03 PM.png",
     "Vault_obslide-show/Welcome.md",
     "images/Screenshot 2026-01-11 8.57.46 PM.png",
