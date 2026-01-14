@@ -8,7 +8,12 @@ plugins:
   - jekyll-remote-theme
 
 exclude:
-  - "2026-01-11.md"
-  - "Welcome.md"
-  - ".obsidian/"
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore
   - "DailyNotes/"
+  - "jekyll-stuff/"
+  - "*.md"        # This ignores ALL notes...
+  - "!index.md"   # my homepage
+  - "!slides.md"  # future slides

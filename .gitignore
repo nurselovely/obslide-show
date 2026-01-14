@@ -1,8 +1,11 @@
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/backups/
+# Obsidian internal files
+.obsidian/
+! .obsidian/plugins/
+! .obsidian/themes/
 
-/2026-01-11.md
-/jekyll-stuff/
-/images/
-/DailyNotes/
+# System files
+.DS_Store
+*.swp
+node_modules/
+
+
