@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cb915dfdb7325f27",
+        "id": "c067e97a7d94b522",
         "type": "tabs",
         "children": [
           {
-            "id": "8567ac51212d60f3",
+            "id": "ad5f23a7ca18ddae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -209,11 +213,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8567ac51212d60f3",
+  "active": "ad5f23a7ca18ddae",
   "lastOpenFiles": [
-    "images/Screenshot 2026-01-14 9.17.51 AM.png",
-    "index.md",
     "Welcome.md",
+    "index.md",
+    "images/Screenshot 2026-01-14 9.17.51 AM.png",
     "_config.yml.md",
     "_config.yml",
     "images/Screenshot 2026-01-12 8.17.09 AM.png",
@@ -234,7 +238,6 @@
     "images/Screenshot 2026-01-11 9.13.27 PM.png",
     "images/Screenshot 2026-01-11 9.10.34 PM.png",
     "images/Screenshot 2026-01-11 9.00.03 PM.png",
-    "Vault_obslide-show/Welcome.md",
-    "images/Screenshot 2026-01-11 8.57.46 PM.png"
+    "Vault_obslide-show/Welcome.md"
   ]
 }
