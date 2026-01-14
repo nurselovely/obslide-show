@@ -4,75 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e7a3e98964392337",
+        "id": "cb915dfdb7325f27",
         "type": "tabs",
         "children": [
           {
-            "id": "f12a0966e1f06f7c",
+            "id": "8567ac51212d60f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_config.yml.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "_config.yml"
-            }
-          }
-        ]
-      },
-      {
-        "id": "33c87b1feb0b39f6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b5b689dace04fe8c",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Slide Preview"
+              "title": "New tab"
             }
           }
         ]
-      },
-      {
-        "id": "be12373915f8abf7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1d0593b39dca46c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-01-11.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-11"
-            }
-          },
-          {
-            "id": "d59f76c241d626d7",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://nurselovely.github.io/obslide-show/",
-                "title": "My Slide Show Home | obslide-show",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "My Slide Show Home | obslide-show"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,35 +194,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "b5b689dace04fe8c",
+  "active": "8567ac51212d60f3",
   "lastOpenFiles": [
-    "images/Screenshot 2026-01-12 6.22.53 AM.png",
-    "2026-01-11.md",
+    "images/Screenshot 2026-01-14 9.17.51 AM.png",
     "index.md",
-    "_config.yml.md",
     "Welcome.md",
+    "_config.yml.md",
+    "_config.yml",
+    "images/Screenshot 2026-01-12 8.17.09 AM.png",
+    "images/Screenshot 2026-01-12 8.15.57 AM.png",
+    "images/Screenshot 2026-01-12 8.13.05 AM.png",
+    "DailyNotes/WeeklyNotes/MonthlyNotes/QuarterlyNotes",
+    "Untitled",
+    "DailyNotes/WeeklyNotes/MonthlyNotes/QuarterlyNotes/YearlyNotes",
+    "DailyNotes/WeeklyNotes/MonthlyNotes",
+    "DailyNotes/WeeklyNotes",
+    "Vault_obslide-show/2026-01-12.md",
+    "2026-01-11.md",
+    "2026-01-12.md",
+    "DailyNotes",
+    "images/Screenshot 2026-01-12 6.22.53 AM.png",
     "images/Screenshot 2026-01-11 9.32.57 PM.png",
     "images/Screenshot 2026-01-11 9.20.55 PM.png",
     "images/Screenshot 2026-01-11 9.13.27 PM.png",
     "images/Screenshot 2026-01-11 9.10.34 PM.png",
     "images/Screenshot 2026-01-11 9.00.03 PM.png",
     "Vault_obslide-show/Welcome.md",
-    "images/Screenshot 2026-01-11 8.57.46 PM.png",
-    "images/Screenshot 2026-01-11 8.54.06 PM.png",
-    "images/Screenshot 2026-01-11 8.43.41 PM.png"
+    "images/Screenshot 2026-01-11 8.57.46 PM.png"
   ]
 }
