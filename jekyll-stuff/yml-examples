@@ -1,0 +1,27 @@
+# --- ACTIVE JEKYLL SETTINGS ---
+theme: jekyll-theme-cayman
+title: My Slide Show
+description: Obsidian notes as slides via GitHub Pages
+remote_theme: pages-themes/cayman@v0.2.0
+
+# --- FUTURE TOOL CONFIGURATIONS (Commented Out) ---
+
+# MARP SETTINGS
+# marp: true
+# style: |
+#   .section { background-color: #f0f0f0; }
+
+# check it
+
+# MARKMIND / MINDMAP SETTINGS
+# markmind:
+#   layout: map
+#   theme: fresh-blue
+
+# EXCALIDRAW EXPORT SETTINGS
+# excalidraw:
+#   embed-type: svg
+#   theme: light
+
+# JEKYLL BUILD SETTINGS
+# exclude: [README.md, .obsidian/] # Tells GitHub to ignore these when building the site
