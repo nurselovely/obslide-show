@@ -1,4 +1,6 @@
-remote_theme: pages-themes/cayman@v0.2.0
 title: My Slide Show
 description: Obsidian notes as slides
-show_downloads: true
+baseurl: "/obslide-show" 
+url: "https://nurselovely.github.io"
+markdown: kramdown
+theme: jekyll-theme-cayman
