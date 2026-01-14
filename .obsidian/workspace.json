@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 200
   },
   "right": {
     "id": "9368f2be5186f17c",
@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,19 +215,27 @@
   },
   "active": "2ebd4033fa5998f9",
   "lastOpenFiles": [
+    "202601141246.md",
+    "index.md",
+    "Untitled.md",
+    "DailyNotes/2026-01-11.md",
+    "images/Screenshot 2026-01-14 12.37.55 PM.png",
+    "images/Screenshot 2026-01-14 12.34.53 PM.png",
+    "images/Screenshot 2026-01-14 12.19.10 PM.png",
+    "images/Screenshot 2026-01-14 11.51.22 AM.png",
+    "images/Screenshot 2026-01-14 11.43.12 AM.png",
+    "images/Screenshot 2026-01-14 11.37.57 AM.png",
+    "Gemfile",
+    "images/Screenshot 2026-01-14 11.32.23 AM.png",
+    "images/Screenshot 2026-01-14 11.31.24 AM.png",
+    "images/Screenshot 2026-01-14 11.20.29 AM.png",
+    "images/Screenshot 2026-01-14 11.19.15 AM.png",
     "2026-01-11.md",
     "Welcome.md",
-    "index.md",
     "jekyll-stuff/yml-examples",
     "jekyll-stuff",
-    "images/Screenshot 2026-01-14 10.17.39 AM.png",
-    "images/Screenshot 2026-01-14 10.12.41 AM.png",
-    "images/Screenshot 2026-01-14 9.17.51 AM.png",
     "_config.yml.md",
     "_config.yml",
-    "images/Screenshot 2026-01-12 8.17.09 AM.png",
-    "images/Screenshot 2026-01-12 8.15.57 AM.png",
-    "images/Screenshot 2026-01-12 8.13.05 AM.png",
     "DailyNotes/WeeklyNotes/MonthlyNotes/QuarterlyNotes",
     "Untitled",
     "DailyNotes/WeeklyNotes/MonthlyNotes/QuarterlyNotes/YearlyNotes",
@@ -236,10 +244,6 @@
     "Vault_obslide-show/2026-01-12.md",
     "2026-01-12.md",
     "DailyNotes",
-    "images/Screenshot 2026-01-12 6.22.53 AM.png",
-    "images/Screenshot 2026-01-11 9.32.57 PM.png",
-    "images/Screenshot 2026-01-11 9.20.55 PM.png",
-    "images/Screenshot 2026-01-11 9.13.27 PM.png",
     "Vault_obslide-show/Welcome.md"
   ]
 }
