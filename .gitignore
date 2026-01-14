@@ -1,11 +1,9 @@
-# Obsidian internal files
+# Ignore the entire folder...
 .obsidian/
+# ...BUT allow these two specific sub-folders so the website looks good
 ! .obsidian/plugins/
 ! .obsidian/themes/
-
-# System files
-.DS_Store
+workspace.json
 *.swp
-node_modules/
 
 
