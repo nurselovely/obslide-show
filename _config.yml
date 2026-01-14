@@ -6,3 +6,9 @@ url: "https://nurselovely.github.io"
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
+
+exclude:
+  - "2026-01-11.md"
+  - "Welcome.md"
+  - ".obsidian/"
+  - "DailyNotes/"
