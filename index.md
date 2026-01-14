@@ -2,4 +2,4 @@
 layout: default
 ---
 # My Slide Show Home
-Welcome to my presentation site.# My Slide Show HomeZ4
+This is the live home for my Obsidian slides.

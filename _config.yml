@@ -1,6 +1,9 @@
 title: My Slide Show
 description: Obsidian notes as slides
-baseurl: "/obslide-show" 
+baseurl: "/obslide-show"
 url: "https://nurselovely.github.io"
-markdown: kramdown
-theme: jekyll-theme-cayman
+
+# This specific line tells GitHub to use the theme's built-in layouts
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
